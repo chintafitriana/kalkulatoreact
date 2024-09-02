@@ -32,7 +32,66 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.calculator {
+  width: 230px;
+  /* Coba kurangi sedikit lebar keseluruhan */
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background: linear-gradient(145deg, #1c1e29, #303656);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+.display {
+  height: 50px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #1c1e29;
+  color: white;
+  text-align: right;
+  font-size: 1.5em;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  /* Pastikan display tidak melebihi lebar */
+  box-sizing: border-box;
+  /* Sertakan padding dalam ukuran elemen */
+}
+
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* Pastikan proporsional */
+  gap: 10px;
+  /* Kurangi gap jika diperlukan */
+}
+
+
+button {
+  padding: 15px;
+  /* Kurangi padding */
+  font-size: 1.2em;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(145deg, #2c2f3d, #444b69);
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:hover {
+  background: linear-gradient(145deg, #444b69, #2c2f3d);
 }
