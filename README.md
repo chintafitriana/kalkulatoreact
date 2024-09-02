@@ -68,7 +68,7 @@ Sesimpel 1 + 1! Buka kalkulatornya, mulai pencet tombol-tombolnya, dan lihat kea
 
 Berikut adalah sedikit cuplikan tentang tampilan kalkulator kamu:
 
-![Kalkulator](./screenshot.png)
+![image](https://github.com/user-attachments/assets/8c144e4d-f724-4b75-92d9-cba3a4494959)
 
 ## 🤙 Hubungi Kami
 
