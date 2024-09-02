@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+🔢 Kalkulator React
+Yo, apa kabar! 😎 Selamat datang di Kalkulator React – kalkulator paling keren dan cepat di web! Dibuat dengan 💚 React, aplikasi ini membantu kamu menghitung angka dengan gaya. Mau menyelesaikan persamaan yang rumit atau sekadar menjumlahkan belanjaan, kalkulator ini siap membantu!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+🚀 Fitur
+Antarmuka Keren – Desain modern dengan gradasi warna yang bikin matematika terlihat keren.
+Responsif – Berfungsi sempurna di semua perangkat, dari desktop besar hingga smartphone di saku kamu.
+Ringan – Cepat dan responsif, seperti kalkulator sejati.
+Fungsi Esensial – Semua operasi dasar yang kamu butuhkan, plus sedikit gaya tambahan.
+🎨 Styling
+Kalkulator ini hadir dengan gradasi warna biru dan hitam yang keren, ditambah dengan tombol yang kelihatan 3D. Bukan sekadar alat – ini adalah gaya hidup.
 
-In the project directory, you can run:
+💻 Instalasi
+Untuk menjalankan aplikasi ini, cukup ikuti langkah-langkah berikut:
 
-### `npm start`
+Clone repositorinya:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copy code
+git clone https://github.com/chintafitriana/kalkulatoreact.git
+Masuk ke direktori proyek:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash
+Copy code
+cd kalkulatoreact
+Install dependencies:
 
-### `npm test`
+bash
+Copy code
+npm install
+Mulai server pengembangan:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash
+Copy code
+npm start
+Dan boom! Aplikasi ini sekarang harus berjalan di http://localhost:3000.
 
-### `npm run build`
+🌐 Deploy
+Kalkulator ini siap untuk dideploy ke web menggunakan Vercel, sehingga bisa diakses dari mana saja!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Deploy dengan Vercel:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+bash
+Copy code
+vercel
+Ikuti petunjuknya, dan voilà – aplikasi kamu sudah live!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🤓 Penggunaan
+Sesimpel 1 + 1! Buka kalkulatornya, mulai pencet tombol-tombolnya, dan lihat keajaibannya. Semua kebutuhan aritmatika dasar kamu tercover, dengan beberapa operator tambahan kalau kamu mau tampil lebih canggih.
 
-### `npm run eject`
+🛠️ Dibuat Dengan
+React.js – Library JavaScript keren untuk membangun antarmuka pengguna.
+CSS3 – Gaya khusus untuk bikin kalkulator kamu bersinar.
+🖼️ Tangkapan Layar
+Berikut adalah sedikit cuplikan tentang tampilan kalkulator kamu:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🤙 Hubungi Kami
+Kalau ada pertanyaan, saran, atau sekadar mau menyapa, jangan ragu untuk menghubungi!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: chintafitriana
+Email: chinta@example.com
+Tetap semangat menghitung, teman-teman! ✌️
