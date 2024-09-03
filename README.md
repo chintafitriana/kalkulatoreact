@@ -75,7 +75,7 @@ Berikut adalah sedikit cuplikan tentang tampilan kalkulator kamu:
 Kalau ada pertanyaan, saran, atau sekadar mau menyapa, jangan ragu untuk menghubungi!
 
 - **GitHub:** [chintafitriana](https://github.com/chintafitriana)
-- **Email:** chinta@example.com
+- **Email:** chintasejati544@gmail.com
 
 ---
 
