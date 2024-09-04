@@ -64,7 +64,6 @@ const Calculator = () => {
                 </button>
                 <button onClick={() => handleClick('.')}>.</button>
                 <button onClick={handleEqual}>=</button>
-                <button onClick={handleSqrt}>√</button>
             </div>
         </div>
     );
